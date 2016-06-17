@@ -25,11 +25,11 @@
 <key>metadata</key> 
 <dict> 
 <key>bundle-identifier</key> 
-<string>com.ionicframework.cgbank122507</string> 
+<string>com.mingxing.zsmarter</string> 
 <key>bundle-version</key> 
-<string>4.0.0.036</string> 
+<string>5.2.9.25032</string> 
 <key>subtitle</key> 
-<string>400036</string> 
+<string>52925032</string> 
 <key>title</key> 
 <string>慧信</string> 
 <key>kind</key> 
